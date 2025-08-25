@@ -1,0 +1,7 @@
+package sec02.example04;
+
+public class LongExample {
+	public static void main(String[] args) {
+		long var1 = 10;
+	}
+}
