@@ -13,7 +13,7 @@ public class Main {
 			if(num1%100!=0 || num1%400==0) {
 				System.out.print(1);
 				
-			}else {
+			} else {
 				System.out.print(0);
 			}
 		} else {
