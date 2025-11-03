@@ -10,7 +10,6 @@ public class PizzaExample {
 		sc.close();
 		
 		Pizza pizza;
-		pizza = new Pizza();
 		
 		if(name.equals("C")) {
 			pizza = new CheezePizza(size);
